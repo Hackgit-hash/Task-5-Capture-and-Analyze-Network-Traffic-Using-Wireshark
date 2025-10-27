@@ -108,7 +108,7 @@ Source IP (Scanner)--------------192.xxx.x.xx
 
 Destination IP-------------------192.xxx.x.x
 
-Observed Protocols---------------ARP, DNS, TCP, UDP, ICMP
+Observed Protocols--------------ARP, DNS, TCP, UDP, ICMP
 
 
 **Sample Packet Evidence**
