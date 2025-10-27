@@ -100,15 +100,15 @@ In the captured packets, I identified the following network protocols:
 
 **Field	Example Data**
 
-Total Packets Captured	          3200
+Total Packets Captured-----------3200
 
-Capture Duration	                1 minute
+Capture Duration-----------------1 minute
 
-Source IP (Scanner)	              192.xxx.x.xx
+Source IP (Scanner)--------------192.xxx.x.xx
 
-Destination IP	                  192.xxx.x.x
+Destination IP-------------------192.xxx.x.x
 
-Observed Protocols	              ARP, DNS, TCP, UDP, ICMP
+Observed Protocols---------------ARP, DNS, TCP, UDP, ICMP
 
 
 **Sample Packet Evidence**
