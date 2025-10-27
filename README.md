@@ -193,11 +193,8 @@ Gained knowledge about TCP handshakes, ARP mapping, and DNS resolution.
 
 **Outcome**
 
-By completing this task, I gained hands-on experience in--- Capturing and analyzing live network traffic,  Using Wireshark filters for specific protocols,  Understanding how TCP, UDP, ARP, and DNS traffic behaves.
-
-Recognizing how scanning and normal communication appear in packet captures.
+By completing this task, I gained hands on experience in-->> Capturing and analyzing live network traffic,Using Wireshark filters for specific protocols,Understanding how TCP, UDP, ARP, and DNS traffic behaves also recognizing how scanning and normal communication appear in packet captures.
 
 Conclusion
 
-This task helped me develop packet analysis skills and protocol awareness.
-I successfully captured live network traffic, analyzed scan patterns, and identified multiple network protocols using Wireshark.
+This task helped me develop packet analysis skills and protocol awareness.I successfully captured live network traffic, analyzed scan patterns, and identified multiple network protocols using Wireshark.
